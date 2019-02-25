@@ -1,18 +1,27 @@
 import random
-print("Welcome to the game! Now please think bout a number between 0 and 50. Keep it in mind and our AI will guess your number. After AI answering, you can type inYou can type in '1', '2', '3' as your answer to let the program know if the guess is (1) bigger than, (2) smaller than, or (3) equal to your number. ")
+print("Welcome to the game! Now please think bout a number between 0 and 50. Keep it in mind and the AI will guess your number. After AI answering, you can type in '1', '2', '3' as your answer to let the AI know if the guess is (1) bigger than, (2) smaller than, or (3) equal to your number. ")
 
-for i in range(5):
-    guess = random.randrange(0,50)
-    print(guess)
-    x = input("Please give a hint to AI: ")
-    
-    if int(x) == 1:
-        guess = random.randrange(guess,50)
-    if int (x) == 2:
-        guess = random.randrange(0,guess)
-    if int(x) == 3:
+guessNum = random.randrange(0,50)
+minNum = 0
+maxNum = 50
+
+# minNum and maxNum cant work here.
+
+selectedNumList = []
+for i in range(100):
+    selectedNumList.insert(i, guessNum)
+    print("I guess the number is", guessNum)
+    userHint = input("Please give a hint to AI: ")
+
+    if int(userHint) == 1:
+        guessNum = random.randrange(minNum,guessNum)
+        maxNum = max(selectedNumList)
+    elif int (userHint) == 2:
+        guessNum = random.randrange(guessNum,maxNum)
+        minNum = min(selectedNumList)
+    elif int(userHint) == 3:
         print("Yay!")
         break
         
-if guess != x:
-    print("I give up ugh!")
+if int(userHint) != 3:
+    print("I give up!")
