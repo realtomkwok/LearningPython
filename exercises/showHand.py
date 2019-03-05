@@ -27,7 +27,7 @@ maxNum = 0
 biggestCard = None
 for selctedCard in namedCards:
     #pick up one card, which stores in the "namedCard" list.
-    rank , suit = selctedCard.split(" of ") 
+    rank, suit = selctedCard.split(" of ") 
     #split the selected card (selctedCard) into two catagories: rank and suit.
     compare = RANKS.index(rank) * 10 + SUITS.index(suit) 
     #index "rank" and "suit" into their lists and output the value of their orders. Since "rank" should be considered first, we ten times it.

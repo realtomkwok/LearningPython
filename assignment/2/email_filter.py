@@ -1,5 +1,5 @@
 
-# Author: Please write your name here
+# Author: Junhao Guo
 
 """
 Given a list of random email addresses as follow:
@@ -26,3 +26,24 @@ Expected printed output:
 '2qqu.net': ['hvjx7p', 'uqjdk', 'svx', 'rhx2']}
 
 """
+import string
+
+mailList = []
+
+validLabels = ["com", "org", "net"]
+invalidCharacters = list(string.punctuation)
+invalidCharacters.remove(".")
+invalidCharacters.remove("@")
+
+for address in emails:
+    localAndHostname, domainLabel = address.split(".")
+    if domainLabel in validLabels:
+       mailList.append(address)
+
+for addressWithGoodDomain in mailList:
+    local, domain = addressWithGoodDomain.split("@")
+    localList = list(local)
+    #print(len(localList))
+    for i in range(len(localList)):
+        if localList[0] in invalidCharacters:
+            mailList.remove(addressWithGoodDomain)
