@@ -29,6 +29,7 @@ Expected printed output:
 import string
 
 mailList = []
+invalidList = []
 
 validLabels = ["com", "org", "net"]
 invalidCharacters = list(string.punctuation)
@@ -40,10 +41,26 @@ for address in emails:
     if domainLabel in validLabels:
        mailList.append(address)
 
-for addressWithGoodDomain in mailList:
-    local, domain = addressWithGoodDomain.split("@")
+for address in mailList:
+    local, domain = address.split("@")
     localList = list(local)
-    #print(len(localList))
-    for i in range(len(localList)):
-        if localList[0] in invalidCharacters:
-            mailList.remove(addressWithGoodDomain)
+    domainList = list(domain)
+    for localCharacters in localList:
+        if localCharacters in invalidCharacters:
+              invalidList.append(address)
+    for domainCharacters in domainList:
+        if domainCharacters in invalidCharacters:
+            invalidList.append(address)
+
+validMailList = list(set(mailList).difference(set(invalidList)))
+print(validMailList)
+
+#mailDict = {}
+#domainList = []
+
+#for address in validMailList:
+    local, domain = address.split("@")
+    domainList.append(domain)
+    mailDict = dict.fromkeys(domainList,local)
+
+#print(mailDict)
