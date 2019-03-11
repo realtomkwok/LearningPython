@@ -53,14 +53,14 @@ for address in mailList:
             invalidList.append(address)
 
 validMailList = list(set(mailList).difference(set(invalidList)))
-print(validMailList)
+print(sorted(validMailList)
 
 #mailDict = {}
 #domainList = []
 
 #for address in validMailList:
-    local, domain = address.split("@")
-    domainList.append(domain)
-    mailDict = dict.fromkeys(domainList,local)
+    #local, domain = address.split("@")
+    #domainList.append(domain)
+    #mailDict = dict.fromkeys(domainList,local)
 
 #print(mailDict)
