@@ -1,3 +1,8 @@
+import string
+import random
+punctuationList = string.punctuation
+
+filteredList = []
 passwords = ['shen502', 'd270476', '760430fox', '1214oo', 'maik68755', 'newrj0', 'telnet1', 'hans72', 's12345',
              'zhii971', 'zyf600690', 'han6736', 'Rocke', 'ifuckyouESRT$%', 'zfj93363211', 'yuanji12', '1234abc',
              'tide9999', 'aaa1', 'yeef1234', 'lj7202', 'ts5022', 'wxq123', 'Helena', 'lsh705', 'zhy1428', 'By1The',
@@ -14,10 +19,32 @@ passwords = ['shen502', 'd270476', '760430fox', '1214oo', 'maik68755', 'newrj0',
              "ppnn13%dkstFeb.1st", 'P@ssw0rd']
 
 
-def filter_passwords(any_arguments_you_need):
-    """Please modify this function as necessary"""
-    pass
+#We define a strong password as one that is at least 8 characters long and contains at least one uppercase letter, at least one lowercase letter, at least one number and at least one symbol that is neither a number nor a letter (e.g. #$!).
 
+#a string can be seen as 
+
+def filter_passwords(passwords):
+    #filter passwords has a length less than 8 characters
+    for password in passwords:
+        if len(password) >= 8:
+            lowercaseCount = 0
+            uppercaseCount = 0
+            digitCount = 0
+            punctuationCount = 0
+            for i in password:
+                if i.islower() == True:
+                    lowercaseCount += 1
+                elif i.isupper() == True:
+                    uppercaseCount += 1
+                elif i.isdigit() == True:
+                    digitCount += 1
+                elif i in punctuationList:
+                    punctuationCount +=1
+            if lowercaseCount >= 1 and uppercaseCount >= 1 and digitCount >= 1 and punctuationCount >= 1:
+                filteredList.append(password)
+    return set(filteredList)
+    
+filter_passwords(passwords)
 
 """
 When the filter_passwords function is completed, the following test_filter function should not raise any AssertionError,
@@ -48,8 +75,11 @@ Again the test_bonus function, when run, should not raise any AssertionError
 
 
 def generate_strong_password():
-    pass
-
+    strongPasswordElements = set(string.digits + string.ascii_letters + string.punctuation)
+    passwordLength =int(random.randrange(8,20))
+    generatedPassword = "".join(random.sample(strongPasswordElements, passwordLength))
+    return generatedPassword
+    
 
 def test_bonus():
     generated_passwords = set(generate_strong_password() for _ in range(1000))
@@ -57,4 +87,4 @@ def test_bonus():
         "Some of the generated passwords aren't strong enough!"
     print("Congratulations, you aced the bonus!")
 
-# test_bonus()
+#test_bonus()
