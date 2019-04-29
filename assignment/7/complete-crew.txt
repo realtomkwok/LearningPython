@@ -1,0 +1,1172 @@
+CRC: 0xB00B2CDE  File: complete-crew.list  Date: Fri Mar 16 00:00:00 2012
+
+The following league table lists the top submitters of complete crew data:
+ 
+  No. of |
+  Titles | Name
+  -------|----------------------------------------------
+   42434 | Complete
+    6713 | Complete+Verified
+  -------|----------------------------------------------
+6713|Complete+Verified
+This represents 49147 movies with *known* complete crew data.
+
+Copyright 1996-2005 The Internet Movie Database, Inc. All rights reserved.
+
+COPYING POLICY: Internet Movie Database (IMDb)
+==============================================
+   
+    This is a  database  of  movie  related  information  compiled  by
+    Internet  Movie  Database, Inc. (IMDb). While every effort has been
+    made to  ensure  the  accuracy  of  the  database  IMDb  gives  no
+    warranty  as  to  the accuracy of the information contained in the
+    database.  IMDb  reserves  the  right  to   withdraw   or   delete
+    information at any time. 
+       
+    This service is provided for the information of users only. It  is
+    not   provided  with  the  intention  that  users  rely  upon  the
+    information for any purposes. Accordingly,  IMDb  shall  under  no
+    circumstances  be liable for any loss or damage, including but not
+    limited to loss of profits, goodwill or indirect or  consequential
+    loss   arising   out   of  any  use  of  or  inaccuracies  in  the
+    information. All warranties express or  implied  are  excluded  to
+    the fullest extent permissible by law. 
+       
+    All information in this file  is  Copyright  2005  Internet  Movie
+    Database  Limited.  Reproduction,  distribution or transmission by
+    any means without the prior permission of IMDb is prohibited.  All
+    rights reserved. 
+
+    For further information contact <licensing@imdb.com>
+       
+         -------------------------------------------------------
+   
+    All data and software released by Internet Movie Database, Inc.  is
+    freely  available  to  anyone  within certain limitations. You are
+    encouraged to quote subsets of the database  in  USENET  articles,
+    movie  related  FAQs,  magazine  articles etc. We do ask, however,
+    that you make reference to the source of the data  and  provide  a
+    pointer to the database for the benefit of the reader. 
+       
+    Permission is granted  by  the  copyright  holder  to  allow  free
+    distribution  of  this  file  and  any  other part of the Internet
+    Movie  Database  in  an  ELECTRONIC  FORM  ONLY,   providing   the
+    following conditions are met: 
+       
+         1. NO FEE OF ANY KIND, however indirect, will be  charged
+            for  its  distribution.  If  this file is being stored
+            for  later  distribution  to  anyone   that   can   be
+            construed   as   a   customer   of  yourself  or  your
+            organisation YOU MUST contact Internet Movie Database,
+            Inc. for permission. 
+            
+         2. Each  of  the  database  files  may   be   distributed
+            individually  but  only  in an unaltered form. All the
+            header and trailer information, including this  notice
+            and  the  details  on how to access the database, must
+            remain intact. 
+            
+         3. Specifically the files may NOT be  used  to  construct
+            any  kind  of  on-line database (except for individual
+            personal use). Clearance for  ALL  such  on-line  data
+            resources   must  be  requested  from  Internet  Movie
+            Database, Inc. 
+            
+         4. In addition, copies of  the  Internet  Movie  Database
+            frequently  asked  questions  list and additions guide
+            must be made available in the same area / by the  same
+            method as the other database files. 
+
+         5. CD-ROM  distribution  is  prohibited  without  written
+            permission from the Internet Movie Database, Inc.
+            
+    Distribution by e-mail, BBS and  Internet  systems  is  positively
+    encouraged within these limitations. 
+       
+    The files and software which make up the  movie  database  may  be
+    uploaded  to  commercial  BBS  systems  providing  that  the above
+    conditions are met and no *additional* fees are applied above  the
+    standard connect time or downloading charges. 
+
+    For further information contact <licensing@imdb.com>
+
+         -------------------------------------------------------
+
+This list records the titles in the movie database for which we believe we
+have complete crew credits. This means that all the non-cast names listed
+on screen in the credits of the movies have been entered into the movie 
+database. This includes everyone from director to third assistant caterer --
+if they have an onscreen credit then they are listed in the database. For
+older movies fewer people were actually credited but nonetheless we want to
+track those cases too.
+
+The pupose of the list is to help us track which movies are fully covered and
+allow us to identify areas where we need more help. The list also provides 
+some individual recognition for people who've put a lot of work into supplying
+the movie database and hopefully will encourage more people to submit additions
+on a title by title basis. 
+
+If you have copies of your favourite movies on tape/LD at home, why not help
+to complete the information on them directly from credits of your copy? The 
+new "UPDATE TITLE" interface provides the most straightforward way to add
+data to the movie database on a title by title basis. There are no special 
+formats to use - you simply edit the information in a form you are used to 
+seeing and send it back to the movie mail-server for processing. For a simple
+guide send e-mail with the subject "HELP UPDATE" to <mail-server@imdb.com>
+
+Some notes on the list:
+
+ * Each entry lists a title along with it's completion status. The status can
+   either be "Complete" which means someone has completed the cast entries
+   for that title, or it can be "Complete+Verified" to indicate that someone
+   has also verified the completion from their copy.
+
+ * The league table above includes counts for completions and verifications.
+
+ * In some cases we have more information in the movie database than appears
+   in the credits. The point is to record when all the crew information in
+   the credits has been recorded to save duplicated efforts later.
+
+ * There are probably hundreds of movies in the database which were completed
+   prior to when I began keeping records.
+
+ * See the companion 'complete-cast.list' file for the cast completion 
+   information.
+
+If you have any questions or comments on this list please contact me via e-mail
+at <vertigo@imdb.com>
+
+
+CREW COVERAGE TRACKING LIST
+===========================
+'11' (1980)						Complete
+11:32 P.M. (2008)					Complete
+$ (1971)						Complete+Verified
+1 Out of 7 (2011)					Complete
+1 Phone, 2 Phone, 3 Phone, 4 (2006)			Complete
+"24" (2001) {Day 7: 10:00 a.m.-11:00 a.m. (#7.3)}	Complete
+"24" (2001) {Day 7: 10:00 p.m.-11:00 p.m. (#7.15)}	Complete
+"24" (2001) {Day 7: 1:00 a.m.-2:00 a.m. (#7.18)}	Complete
+"24" (2001) {Day 7: 1:00 p.m.-2:00 p.m. (#7.6)}		Complete
+"24" (2001) {Day 7: 11:00 a.m.-12:00 p.m. (#7.4)}	Complete
+"24" (2001) {Day 7: 11:00 p.m.-12:00 a.m. (#7.16)}	Complete
+"24" (2001) {Day 7: 12:00 a.m.-1:00 a.m. (#7.17)}	Complete
+"24" (2001) {Day 7: 12:00 p.m.-1:00 p.m. (#7.5)}	Complete
+"24" (2001) {Day 7: 2:00 a.m.-3:00 a.m. (#7.19)}	Complete
+"24" (2001) {Day 7: 2:00 p.m.-3:00 p.m. (#7.7)}		Complete
+"24" (2001) {Day 7: 3:00 a.m.-4:00 a.m. (#7.20)}	Complete
+"24" (2001) {Day 7: 3:00 p.m.-4:00 p.m. (#7.8)}		Complete
+"24" (2001) {Day 7: 4:00 a.m.-5:00 a.m. (#7.21)}	Complete
+"24" (2001) {Day 7: 4:00 p.m.- 5:00 p.m. (#7.9)}	Complete
+"24" (2001) {Day 7: 5:00 a.m.-6:00 a.m. (#7.22)}	Complete
+"24" (2001) {Day 7: 5:00 p.m.-6:00 p.m. (#7.10)}	Complete
+"24" (2001) {Day 7: 6:00 a.m.-7:00 a.m. (#7.23)}	Complete
+"24" (2001) {Day 7: 6:00 p.m.-7:00 p.m. (#7.11)}	Complete
+"24" (2001) {Day 7: 7:00 a.m.-8:00 a.m. (#7.24)}	Complete
+"24" (2001) {Day 7: 7:00 p.m.-8:00 p.m. (#7.12)}	Complete
+"24" (2001) {Day 7: 8:00 p.m.-9:00 p.m. (#7.13)}	Complete
+"24" (2001) {Day 7: 9:00 p.m.-10:00 p.m. (#7.14)}	Complete
+"24" (2001) {Day 8: 10:00 a.m.-11:00 a.m. (#8.19)}	Complete
+"24" (2001) {Day 8: 10:00 p.m.-11:00 p.m. (#8.7)}	Complete
+"24" (2001) {Day 8: 1:00 a.m.-2:00 a.m. (#8.10)}	Complete
+"24" (2001) {Day 8: 1:00 p.m.-2:00 p.m. (#8.22)}	Complete
+"24" (2001) {Day 8: 11:00 a.m.-12:00 p.m. (#8.20)}	Complete
+"24" (2001) {Day 8: 11:00 p.m.-12:00 a.m. (#8.8)}	Complete
+"24" (2001) {Day 8: 12:00 a.m.-1:00 a.m. (#8.9)}	Complete
+"24" (2001) {Day 8: 12:00 p.m.-1:00 p.m. (#8.21)}	Complete
+"24" (2001) {Day 8: 2:00 a.m.-3:00 a.m. (#8.11)}	Complete
+"24" (2001) {Day 8: 2:00 p.m.-3:00 p.m. (#8.23)}	Complete
+"24" (2001) {Day 8: 3:00 a.m.-4:00 a.m. (#8.12)}	Complete
+"24" (2001) {Day 8: 3:00 p.m.-4:00 p.m. (#8.24)}	Complete
+"24" (2001) {Day 8: 4:00 a.m.-5:00 a.m. (#8.13)}	Complete
+"24" (2001) {Day 8: 4:00 p.m.-5:00 p.m. (#8.1)}		Complete
+"24" (2001) {Day 8: 5:00 a.m.-6:00 a.m. (#8.14)}	Complete
+"24" (2001) {Day 8: 5:00 p.m.-6:00 p.m. (#8.2)}		Complete
+"24" (2001) {Day 8: 6:00 a.m.-7:00 a.m. (#8.15)}	Complete
+"24" (2001) {Day 8: 6:00 p.m.-7:00 p.m. (#8.3)}		Complete
+"24" (2001) {Day 8: 7:00 a.m.-8:00 a.m. (#8.16)}	Complete
+"24" (2001) {Day 8: 7:00 p.m.-8:00 p.m. (#8.4)}		Complete
+"24" (2001) {Day 8: 8:00 a.m.-9:00 a.m. (#8.17)}	Complete
+"24" (2001) {Day 8: 8:00 p.m.-9:00 p.m. (#8.5)}		Complete
+"24" (2001) {Day 8: 9:00 a.m.-10:00 a.m. (#8.18)}	Complete
+"24" (2001) {Day 8: 9:00 p.m.-10:00 p.m. (#8.6)}	Complete
+24/7 (2005) (V)						Complete
+"24 Hour Panel People" (2011) {(#1.1)}			Complete
+"24 Hour Panel People" (2011) {(#1.2)}			Complete
+"24 Hour Panel People" (2011) {(#1.3)}			Complete
+"24 Hour Panel People" (2011) {(#1.4)}			Complete
+"24 Hour Panel People" (2011) {(#1.5)}			Complete
+24 Hours of a Woman's Life (1952)			Complete
+24 in 24 (2009) (TV)					Complete
+25% (2005) (V)						Complete
+"30 Rock" (2006) {Black Tie (#1.12)}			Complete
+"30 Rock" (2006) {Blind Date (#1.3)}			Complete
+"30 Rock" (2006) {Cleveland (#1.20)}			Complete
+"30 Rock" (2006) {Corporate Crush (#1.19)}		Complete
+"30 Rock" (2006) {Fireworks (#1.18)}			Complete
+"30 Rock" (2006) {Hard Ball (#1.15)}			Complete
+"30 Rock" (2006) {Hiatus (#1.21)}			Complete
+"30 Rock" (2006) {Jack Meets Dennis (#1.6)}		Complete
+"30 Rock" (2006) {Jack the Writer (#1.4)}		Complete
+"30 Rock" (2006) {Jack-Tor (#1.5)}			Complete
+"30 Rock" (2006) {Pilot (#1.1)}				Complete
+"30 Rock" (2006) {SeinfeldVision (#2.1)}		Complete
+"30 Rock" (2006) {The Aftermath (#1.2)}			Complete
+"30 Rock" (2006) {The Baby Show (#1.9)}			Complete
+"30 Rock" (2006) {The Break-Up (#1.8)}			Complete
+"30 Rock" (2006) {The C Word (#1.14)}			Complete
+"30 Rock" (2006) {The Fighting Irish (#1.17)}		Complete
+"30 Rock" (2006) {The Head and the Hair (#1.11)}	Complete
+"30 Rock" (2006) {The Rural Juror (#1.10)}		Complete
+"30 Rock" (2006) {The Source Awards (#1.16)}		Complete
+"30 Rock" (2006) {Tracy Does Conan (#1.7)}		Complete
+"30 Rock" (2006) {Up All Night (#1.13)}			Complete
+"55 Degrees North" (2004) {(#1.1)}			Complete
+"55 Degrees North" (2004) {(#1.2)}			Complete
+"55 Degrees North" (2004) {(#1.3)}			Complete
+"55 Degrees North" (2004) {(#1.4)}			Complete
+"55 Degrees North" (2004) {(#1.5)}			Complete
+"55 Degrees North" (2004) {(#1.6)}			Complete
+"55 Degrees North" (2004) {(#2.1)}			Complete
+"55 Degrees North" (2004) {(#2.2)}			Complete
+"55 Degrees North" (2004) {(#2.3)}			Complete
+"55 Degrees North" (2004) {(#2.4)}			Complete
+"55 Degrees North" (2004) {(#2.5)}			Complete
+"55 Degrees North" (2004) {(#2.6)}			Complete
+"55 Degrees North" (2004) {(#2.7)}			Complete
+"55 Degrees North" (2004) {(#2.8)}			Complete
+"A Bit of a Do" (1989) {The Angling Club Christmas Party (#1.3)}	Complete
+"A Bit of a Do" (1989) {The Charity Horse-Racing Evening (#1.4)}	Complete
+"A Bit of a Do" (1989) {The Christening (#2.2)}		Complete
+"A Bit of a Do" (1989) {The Church Wedding (#2.1)}	Complete
+"A Bit of a Do" (1989) {The Civil Wedding (#2.7)}	Complete
+"A Bit of a Do" (1989) {The Crowning of Miss Frozen Chicken (UK) (#1.5)}	Complete
+"A Bit of a Do" (1989) {The Dentist's Dinner Dance (#1.2)}	Complete
+"A Bit of a Do" (1989) {The Farewell Party (#2.4)}	Complete
+"A Bit of a Do" (1989) {The Funeral (#2.6)}		Complete
+"A Bit of a Do" (1989) {The Grand Opening of Sillitoe's (#2.3)}	Complete
+"A Bit of a Do" (1989) {The Inauguration of the Outer Inner Relief Ring Road (#2.5)}	Complete
+"A Bit of a Do" (1989) {The Registry Office Wedding (#1.6)}	Complete
+"A Bit of a Do" (1989) {The White Wedding (#1.1)}	Complete+Verified
+A Black Widow (2009)					Complete
+A Blue Note (2009)					Complete
+A Blueprint for Murder (1953)				Complete
+A Bone for a Bone (1951)				Complete
+A Borboleta na Gaiola (1987) (TV)			Complete
+About a Boy (2002)					Complete
+"About Face" (1989) {Bag Lady (#1.6)}			Complete
+About My Dad (2009)					Complete
+About Sarah (1998) (TV)					Complete
+About Schmidt (2002)					Complete+Verified
+Above and Beyond (1952)					Complete
+Above Ground (2007)					Complete
+Above Suspicion (1943)					Complete+Verified
+Above Suspicion (1995)					Complete+Verified
+Above the Law (1988)					Complete+Verified
+Above Us the Waves (1955)				Complete
+A Boy and His Dog (1946)				Complete
+A Boy and His Dog (1975)				Complete
+A Boy Like Me (2010)					Complete
+A Boy Named Charlie Brown (1969)			Complete
+Abraham Lincoln (1930)					Complete+Verified
+A Brand New Life (1973) (TV)				Complete
+A Breath of Scandal (1960)				Complete
+Abre los ojos (1997)					Complete
+A Bride for Henry (1937)				Complete+Verified
+A Bridge Too Far (1977)					Complete
+A Brief Case (2006)					Complete
+A Brief Theory on Mankind (2007) (V)			Complete
+A Broadway Romeo (1931)					Complete
+A Broken Family (2010)					Complete
+A Broken Heart (2007/I) (V)				Complete
+A Broken Leghorn (1959)					Complete
+A Bronx Morning (1931)					Complete
+A Bronx Tale (1993)					Complete
+A Brother's Kiss (1997)					Complete+Verified
+Abschied (1930)						Complete
+Abschied von den Wolken (1959)				Complete
+"Abschnitt 40" (2001) {Ausgesetzt (#2.5)}		Complete
+"Abschnitt 40" (2001) {Berlin - Abschnitt 40 (#1.0)}	Complete
+"Abschnitt 40" (2001) {Durchgedreht (#1.1)}		Complete
+"Abschnitt 40" (2001) {Familienalbum (#1.8)}		Complete
+"Abschnitt 40" (2001) {Feiertage (#1.4)}		Complete
+"Abschnitt 40" (2001) {Häuslicher Einsatz (#2.4)}	Complete
+"Abschnitt 40" (2001) {Kopflos (#1.3)}			Complete
+"Abschnitt 40" (2001) {Mausefalle (#2.8)}		Complete
+"Abschnitt 40" (2001) {Morgengrauen (#1.6)}		Complete
+"Abschnitt 40" (2001) {Samstagskisten (#1.7)}		Complete
+"Abschnitt 40" (2001) {Schattenboxen (#2.6)}		Complete
+"Abschnitt 40" (2001) {Schusswaffengebrauch (#2.1)}	Complete
+"Abschnitt 40" (2001) {Seelenfrieden (#2.7)}		Complete
+"Abschnitt 40" (2001) {Sicherstellung (#3.1)}		Complete
+"Abschnitt 40" (2001) {Straßen der Nacht (#2.3)}	Complete
+"Abschnitt 40" (2001) {Vermisst (#1.2)}			Complete
+"Abschnitt 40" (2001) {Vollmond (#1.5)}			Complete
+"Abschnitt 40" (2001) {Wiederholungstäter (#2.2)}	Complete
+Absence of Malice (1981)				Complete+Verified
+Absent (2007)						Complete
+Absolute Beginners (1986)				Complete
+Absolute Power (1997)					Complete+Verified
+Absolute Quiet (1936)					Complete
+Absolution (1978)					Complete
+A Bucket of Blood (1959)				Complete+Verified
+A Bucket of Blood (1995) (TV)				Complete
+Acts of Betrayal (1997)					Complete
+Actualidades Portuguesas (1932)				Complete
+Actualidades Portuguesas (1933)				Complete
+Actuality (2009)					Complete
+Ad 2 (2006)						Complete
+Ada (1961)						Complete+Verified
+"Adam-12" (1968) {Ambush (#4.8)}			Complete
+"Adam-12" (1968) {Anniversary (#4.9)}			Complete
+"Adam-12" (1968) {Assassination (#4.11)}		Complete
+"Adam-12" (1968) {Backup 1-L20 (#4.21)}			Complete
+"Adam-12" (1968) {Citizens All (#4.14)}			Complete
+"Adam-12" (1968) {Day Watch (#4.10)}			Complete
+"Adam-12" (1968) {Elegy for a Pig (#3.8)}		Complete
+"Adam-12" (1968) {Extortion (#4.1)}			Complete
+"Adam-12" (1968) {Eyewitness (#4.23)}			Complete
+"Adam-12" (1968) {Log 101: The Stolen Lawn (#1.9)}	Complete+Verified
+"Adam-12" (1968) {Log 102: We Can't Just Walk Away from It (#1.21)}	Complete+Verified
+"Adam-12" (1968) {Log 103: A Sound Like Thunder (#2.6)}	Complete+Verified
+"Adam-12" (1968) {Log 104: The Bomb (#2.20)}		Complete+Verified
+"Adam-12" (1968) {Log 106: Post Time (#3.24)}		Complete
+"Adam-12" (1968) {Log 111: The Boa Constrictor (#1.11)}	Complete+Verified
+"Adam-12" (1968) {Log 112: You Blew It (#1.18)}		Complete+Verified
+"Adam-12" (1968) {Log 114: The Hero (#2.22)}		Complete+Verified
+"Adam-12" (1968) {Log 115: Gang War (#3.14)}		Complete
+"Adam-12" (1968) {Log 11: It's Just a Little Dent, Isn't It? (#1.3)}	Complete+Verified
+"Adam-12" (1968) {Log 122: Christmas - The Yellow Dump Truck (#1.13)}	Complete+Verified
+"Adam-12" (1968) {Log 123: Courtroom (#2.9)}		Complete+Verified
+"Adam-12" (1968) {Log 124: Airport (#2.18)}		Complete+Verified
+"Adam-12" (1968) {Log 125: A Safe Job (#3.26)}		Complete
+"Adam-12" (1968) {Log 12: He Was Trying to Kill Me (#1.23)}	Complete+Verified
+"Adam-12" (1968) {Log 131: Reed, the Dicks Have Their Jobs, and We Have Ours (#1.4)}	Complete+Verified
+"Adam-12" (1968) {Log 132: Producer (#1.10)}		Complete+Verified
+"Adam-12" (1968) {Log 134: Child Stealer (#2.23)}	Complete+Verified
+"Adam-12" (1968) {Log 135: Arson (#3.10)}		Complete
+"Adam-12" (1968) {Log 141: The Color TV Bandit (#1.2)}	Complete+Verified
+"Adam-12" (1968) {Log 142: As High as You Are (#2.11)}	Complete+Verified
+"Adam-12" (1968) {Log 143: Cave (#2.10)}		Complete+Verified
+"Adam-12" (1968) {Log 144: Bank Robbery (#2.24)}	Complete
+"Adam-12" (1968) {Log 14: SWAT (#2.14)}			Complete+Verified
+"Adam-12" (1968) {Log 152: A Dead Cop Can't Help Anyone (#1.22)}	Complete+Verified
+"Adam-12" (1968) {Log 153: Find Me a Needle (#2.2)}	Complete+Verified
+"Adam-12" (1968) {Log 155: Internal Affairs - Blackmail (#3.16)}	Complete
+"Adam-12" (1968) {Log 15: Exactly 100 Yards (#2.1)}	Complete+Verified
+"Adam-12" (1968) {Log 161: And You Want Me to Get Married? (#1.6)}	Complete+Verified
+"Adam-12" (1968) {Log 164: The Poachers (#3.21)}	Complete
+"Adam-12" (1968) {Log 165: Once a Cop (#3.19)}		Complete
+"Adam-12" (1968) {Log 16: A Child in Danger (#3.22)}	Complete
+"Adam-12" (1968) {Log 172: Boy, the Things You Do for the Job (#1.24)}	Complete+Verified
+"Adam-12" (1968) {Log 173: Shoplift (#2.26)}		Complete
+"Adam-12" (1968) {Log 174: Loan Sharks (#3.1)}		Complete
+"Adam-12" (1968) {Log 175: The Con Artists (#3.13)}	Complete
+"Adam-12" (1968) {Log 1: The Impossible Mission (#1.1)}	Complete+Verified
+"Adam-12" (1968) {Log 22:...So This Little Guy Goes Into a Bar, and... (#1.26)}	Complete+Verified
+"Adam-12" (1968) {Log 23: Pig Is a Three-Letter Word (#2.4)}	Complete+Verified
+"Adam-12" (1968) {Log 24: A Rare Occasion (#2.17)}	Complete+Verified
+"Adam-12" (1968) {Log 25: Indians (#3.9)}		Complete
+"Adam-12" (1968) {Log 26: LEMRAS (#3.15)}		Complete
+"Adam-12" (1968) {Log 32: Jimmy Eisley's Dealing Smack (#1.15)}	Complete+Verified
+"Adam-12" (1968) {Log 33: It All Happened So Fast (#1.17)}	Complete+Verified
+"Adam-12" (1968) {Log 34: Astro Division (#2.13)}	Complete+Verified
+"Adam-12" (1968) {Log 35: Easy, Bare Rider (#3.2)}	Complete
+"Adam-12" (1968) {Log 36: Man Between (#3.18)}		Complete
+"Adam-12" (1968) {Log 43: Hostage (#2.12)}		Complete+Verified
+"Adam-12" (1968) {Log 44: Attempted Bribery (#2.25)}	Complete
+"Adam-12" (1968) {Log 45: Bright Boy (#3.4)}		Complete
+"Adam-12" (1968) {Log 46: Pilgrimage (#3.11)}		Complete
+"Adam-12" (1968) {Log 51: A Jumper, Code 2 (#1.19)}	Complete+Verified
+"Adam-12" (1968) {Log 52: Good Cop - Handle with Care (#2.3)}	Complete+Verified
+"Adam-12" (1968) {Log 54: Impersonation (#2.16)}	Complete+Verified
+"Adam-12" (1968) {Log 55: Missing Child (#3.6)}		Complete
+"Adam-12" (1968) {Log 56: Vice Versa (#3.23)}		Complete
+"Adam-12" (1968) {Log 61: The Runaway (#1.12)}		Complete+Verified
+"Adam-12" (1968) {Log 62: Grand Theft Horse? (#1.16)}	Complete+Verified
+"Adam-12" (1968) {Log 63: Baby (#2.7)}			Complete+Verified
+"Adam-12" (1968) {Log 64: Bottom of the Bottle (#2.15)}	Complete+Verified
+"Adam-12" (1968) {Log 66: The Vandals (#3.17)}		Complete
+"Adam-12" (1968) {Log 69: Cigarettes, Cars, and Wild, Wild Women (#3.5)}	Complete
+"Adam-12" (1968) {Log 71: I Feel Like a Fool, Malloy (#1.7)}	Complete+Verified
+"Adam-12" (1968) {Log 72: El Presidente (#1.8)}		Complete+Verified
+"Adam-12" (1968) {Log 73: I'm Still a Cop (#1.20)}	Complete+Verified
+"Adam-12" (1968) {Log 74: Light Duty (#2.21)}		Complete+Verified
+"Adam-12" (1968) {Log 75: Have a Nice Weekend (#3.7)}	Complete
+"Adam-12" (1968) {Log 76: The Militants (#3.20)}	Complete
+"Adam-12" (1968) {Log 81: The Long Walk (#1.14)}	Complete+Verified
+"Adam-12" (1968) {Log 83: A Different Thing (#2.5)}	Complete+Verified
+"Adam-12" (1968) {Log 85: Sign of the Twins (#3.12)}	Complete
+"Adam-12" (1968) {Log 88 - Reason to Run (#3.25)}	Complete
+"Adam-12" (1968) {Log 91: You're Not the First Guy's Had the Problem (#1.5)}	Complete+Verified
+"Adam-12" (1968) {Log 92: Tell Him He Pushed a Little Too Hard (#1.25)}	Complete+Verified
+"Adam-12" (1968) {Log 93: Once a Junkie (#2.8)}		Complete+Verified
+"Adam-12" (1968) {Log 94: Vengeance (#2.19)}		Complete+Verified
+"Adam-12" (1968) {Log 95: Purse Snatcher (#3.3)}	Complete
+"Adam-12" (1968) {Mary Hong Loves Tommy Chen (#4.19)}	Complete
+"Adam-12" (1968) {Million Dollar Buff (#4.2)}		Complete
+"Adam-12" (1968) {Pick-up (#4.13)}			Complete
+"Adam-12" (1968) {Substation (#4.20)}			Complete
+"Adam-12" (1968) {The Adoption (#4.18)}			Complete
+"Adam-12" (1968) {The Dinosaur (#4.12)}			Complete
+"Adam-12" (1968) {The Ferret (#4.6)}			Complete
+"Adam-12" (1968) {The Grandmothers (#4.3)}		Complete
+"Adam-12" (1968) {The Parole Violator (#4.17)}		Complete
+"Adam-12" (1968) {The Princess and the Pig (#4.15)}	Complete
+"Adam-12" (1968) {The Radical (#4.4)}			Complete
+"Adam-12" (1968) {The Search (#4.5)}			Complete
+"Adam-12" (1968) {The Tip (#4.16)}			Complete
+"Adam-12" (1968) {Truant (#4.7)}			Complete
+"Adam-12" (1968) {Wednesday Warrior (#4.24)}		Complete
+"Adam-12" (1968) {Who Won? (#4.22)}			Complete
+Adam (1992)						Complete
+"Adam Adamant Lives!" (1966) {A Vintage Year for Scoundrels (#1.1)}	Complete
+A Damsel in Distress (1937)				Complete+Verified
+Adam's Rib (1949)					Complete+Verified
+Adam & the Allegory of the Forest (2008)		Complete
+Adam Trent: Real Magic (2006) (V)			Complete+Verified
+Adam & Yves (1974)					Complete
+A Dangerous Affair (1995) (TV)				Complete
+A Dangerous Profession (1949)				Complete+Verified
+A Dangerous Woman (1993)				Complete
+Adaptation to Mercury (2010)				Complete
+A Date to Skate (1938)					Complete+Verified
+A Date with the Falcon (1942)				Complete
+A Day at the Races (1937)				Complete+Verified
+A Day in Death Valley (1944)				Complete
+A Day in Venice (1933)					Complete
+A Day on the Asteroid (2009)				Complete
+A Day on Treasure Island (1939)				Complete+Verified
+A Day's Pleasure (1919)					Complete
+AdCorp, Inc. (2005)					Complete
+Addiction (2008) (V)					Complete
+Addio fratello crudele (1971)				Complete+Verified
+Address Unknown (1944)					Complete
+Address Unknown (1997)					Complete
+A Deadly Business (1986) (TV)				Complete+Verified
+"A Death in California" (1985) {(#1.1)}			Complete
+"A Death in California" (1985) {(#1.2)}			Complete
+A Death in Canaan (1978) (TV)				Complete
+A Decent Proposal (1998)				Complete
+A Diary for Timothy (1945)				Complete+Verified
+Adieu, poulet (1975)					Complete+Verified
+A Dirty Shame (2004)					Complete
+A Dirty Western (1975)					Complete
+Adiós con el corazón (2000)				Complete
+Adiós cordera (1969)					Complete
+A Dispatch from Reuter's (1940)				Complete
+Adiós pequeña (1986)					Complete
+A Doctor's Story (1984) (TV)				Complete
+A Dog of Flanders (1935)				Complete+Verified
+A Dog of Flanders (1959)				Complete
+A Dog's Life (1918)					Complete
+A Dog's Tale (1999)					Complete
+Adolf Armstarke (1937)					Complete
+Adolf Hitler - My Part in His Downfall (1974)		Complete
+Adolf i eld och lågor (1939)				Complete
+Adolf i toppform (1952)					Complete
+A Doll's House (1973/I)					Complete
+Adopting Change (2004)					Complete
+"A Dorothy L. Sayers Mystery" (1987) {Gaudy Night: Episode One (#1.8)}	Complete
+"A Dorothy L. Sayers Mystery" (1987) {Gaudy Night: Episode Three (#1.10)}	Complete
+"A Dorothy L. Sayers Mystery" (1987) {Gaudy Night: Episode Two (#1.9)}	Complete
+"A Dorothy L. Sayers Mystery" (1987) {Have His Carcase: Episode Four (#1.7)}	Complete+Verified
+"A Dorothy L. Sayers Mystery" (1987) {Have His Carcase: Episode One (#1.4)}	Complete
+"A Dorothy L. Sayers Mystery" (1987) {Have His Carcase: Episode Three (#1.6)}	Complete
+"A Dorothy L. Sayers Mystery" (1987) {Have His Carcase: Episode Two (#1.5)}	Complete+Verified
+"A Dorothy L. Sayers Mystery" (1987) {Strong Poison: Episode One (#1.1)}	Complete
+"A Dorothy L. Sayers Mystery" (1987) {Strong Poison: Episode Three (#1.3)}	Complete
+"A Dorothy L. Sayers Mystery" (1987) {Strong Poison: Episode Two (#1.2)}	Complete
+Adosados (1996)						Complete
+A Double Life (1947)					Complete+Verified
+A Dream Comes True (1935)				Complete
+A Dream for Christmas (1973) (TV)			Complete
+A Dream of Love (1938)					Complete+Verified
+A Dream Walking (1934)					Complete
+Adrift (1993) (TV)					Complete
+A Ducking They Did Go (1939)				Complete
+A dunai hajós (1974)					Complete
+Advance and Be Mechanized (1967)			Complete
+Advance to the Rear (1964)				Complete
+Adventure (1945)					Complete
+Adventure by the Sea (1964)				Complete
+Adventure Girl (1934)					Complete
+Adventure in Manhattan (1936)				Complete
+Adventure Island (1947)					Complete
+Adventures in Paradise 1 (1996) (V)			Complete
+"Adventures in Paradise" (1959) {A Bride for the Captain (#3.23)}	Complete
+"Adventures in Paradise" (1959) {A Touch of Genius (#2.25)}	Complete
+"Adventures in Paradise" (1959) {A Whale of a Tale (#2.6)}	Complete
+"Adventures in Paradise" (1959) {Incident in Suva (#2.12)}	Complete
+"Adventures in Paradise" (1959) {Isle of Eden (#1.19)}	Complete
+"Adventures in Paradise" (1959) {Once Around the Circuit (#2.3)}	Complete
+"Adventures in Paradise" (1959) {Policeman's Holiday (#3.17)}	Complete
+"Adventures in Paradise" (1959) {Prisoner in Paradise (#1.20)}	Complete
+"Adventures in Paradise" (1959) {Safari at Sea (#1.6)}	Complete
+"Adventures in Paradise" (1959) {Sink or Swim (#2.11)}	Complete
+"Adventures in Paradise" (1959) {The Archer's Ring (#1.14)}	Complete
+"Adventures in Paradise" (1959) {The Assassins (#3.9)}	Complete
+"Adventures in Paradise" (1959) {The Black Pearl (#1.2)}	Complete
+"Adventures in Paradise" (1959) {The Fires of Kanua (#3.8)}	Complete
+"Adventures in Paradise" (1959) {The Pit of Silence (#1.1)}	Complete
+"Adventures in Paradise" (1959) {The Pretender (#3.7)}	Complete
+"Adventures in Paradise" (1959) {The Raft (#1.8)}	Complete
+"Adventures in Paradise" (1959) {The Secret Place (#3.21)}	Complete
+"Adventures in Paradise" (1959) {The Serpent in the Garden (#2.26)}	Complete
+"Adventures in Paradise" (1959) {The Velvet Trap (#3.16)}	Complete
+"Adventures in Paradise" (1959) {Vendetta (#3.3)}	Complete
+"Adventures in Paradise" (1959) {Walk Through the Night (#1.16)}	Complete
+Adventures in Paradise 3 (1997) (V)			Complete
+Adventures in Paradise 4 (1997) (V)			Complete
+Adventures in South America (1946)			Complete
+Adventures of a Plumber's Mate (1978)			Complete
+Adventures of a Private Eye (1977)			Complete
+Adventures of a Taxi Driver (1976)			Complete
+Adventures of Captain Fabian (1951)			Complete
+Adventures of Captain Marvel (1941)			Complete+Verified
+Adventures of Don Juan (1948)				Complete+Verified
+Adventures of Gallant Bess (1952)			Complete
+Adventures of Kitty O'Day (1945)			Complete
+Adventures of Nick Carter (1972) (TV)			Complete
+Adventures of Popeye (1935)				Complete+Verified
+Adventures of Red Ryder (1940)				Complete+Verified
+"Adventures of Superman" (1952) {Mystery of the Broken Statues (#1.4)}	Complete
+"Adventures of Superman" (1952) {Night of Terror (#1.6)}	Complete
+"Adventures of Superman" (1952) {Superman on Earth (#1.1)}	Complete
+"Adventures of Superman" (1952) {The Case of the Talkative Dummy (#1.3)}	Complete
+"Adventures of Superman" (1952) {The Haunted Lighthouse (#1.2)}	Complete
+"Adventures of Superman" (1952) {The Monkey Mystery (#1.5)}	Complete
+Adventures of the Flying Cadets (1943)			Complete+Verified
+"Adventure Time with Finn & Jake" (2010) {Prisoners of Love (#1.3)}	Complete
+Advise & Consent (1962)					Complete+Verified
+Aelita (1924)						Complete
+Aerial Gunner (1943)					Complete
+Aeronutics (1941)					Complete
+Aesop's Diner (2006)					Complete
+A Estrangeira (1983)					Complete
+A Face in the Crowd (1957)				Complete+Verified
+A Face to Die For (1996) (TV)				Complete
+A Failure at Fifty (1940)				Complete
+A Fallible Fable (1963)					Complete
+A Family Affair (1937)					Complete+Verified
+A Family Divided (1995) (TV)				Complete
+A Family Thing (1996)					Complete+Verified
+A Family Torn Apart (1993) (TV)				Complete
+A Family Upside Down (1978) (TV)			Complete
+A Farewell to Arms (1932)				Complete+Verified
+A Farewell to Arms (1957)				Complete+Verified
+A Far Off Place (1993)					Complete
+A Father for Brittany (1998) (TV)			Complete
+A Father's Rights (2008)				Complete
+A Few Good Men (1992)					Complete+Verified
+Affairs of Cappy Ricks (1937)				Complete+Verified
+Affectionately Yours (1941)				Complete+Verified
+Affinity (2008/II)					Complete
+Affliction (1997)					Complete+Verified
+A Fig Leaf for Eve (1944)				Complete
+A Filmmaker's Journey (2006) (V)			Complete
+A Fine Madness (1966)					Complete
+A Fine Mess (1986)					Complete
+A Fink in the Rink (1971)				Complete
+A First Goodbye (2008)					Complete
+A Fish Called Wanda (1988)				Complete+Verified
+A Flea in Her Ear (1968)				Complete
+A Fool's Advice (1932)					Complete
+"A for Andromeda" (1961) {The Face of the Tiger (#1.6)}	Complete
+A Foreign Affair (1948)					Complete
+A Formal Faucett (1978)					Complete
+A Fox in a Fix (1951)					Complete
+A Fractured Leghorn (1950)				Complete
+Afraid of the Dark (1991)				Complete
+A Free Soul (1931)					Complete
+A French Mistress (1960)				Complete
+Africa Express (1976)					Complete
+African Diary (1945)					Complete
+African Manhunt (1955)					Complete
+Africa Screams (1949)					Complete+Verified
+Africa Speaks -- English (1933)				Complete+Verified
+Africa Squeaks (1940)					Complete+Verified
+Africa Unite: A Celebration of Bob Marley's 60th Birthday (2008)	Complete
+A Friend of Dorothy (1994)				Complete
+A Friend's Betrayal (1996) (TV)				Complete
+A Friend to Die For (1994) (TV)				Complete
+Aftenunderholdning uden bal med John Price (1975) (TV)	Complete
+After (2001)						Complete
+After an Autumn Day That Felt Like Summer (2003)	Complete
+After Birth (2008)					Complete
+Afterburn (1992) (TV)					Complete+Verified
+Afterglow (1997)					Complete+Verified
+After Hours (1985)					Complete+Verified
+After Hours (2006)					Complete
+After Hours (2009/I)					Complete
+After Hours (2011) (V)					Complete
+After Midnight (1927)					Complete
+After Midnight with Boston Blackie (1943)		Complete
+After Office Hours (1935)				Complete+Verified
+After the Break-up (2006)				Complete
+After the Dance (1935)					Complete
+After the Day (2008) (V)				Complete
+After the End (2006)					Complete
+After the Fall (2006)					Complete
+After the Harvest (2001) (TV)				Complete+Verified
+After the Rain (1988)					Complete
+After the Shock (1990) (TV)				Complete
+After the Thin Man (1936)				Complete+Verified
+Aftertime (2006)					Complete
+After Tonight (1933)					Complete
+A Fugitive from Justice (1940)				Complete+Verified
+A Funny Thing Happened on the Way to the Forum (1966)	Complete+Verified
+Against a Crooked Sky (1975)				Complete
+Against All Flags (1952)				Complete
+Against Odds (2009)					Complete
+Against the Wind (1948)					Complete+Verified
+A Game of Numbers (2008) (V)				Complete
+A Gander at Mother Goose (1940)				Complete
+A Garça e a Serpente (1952)				Complete
+A Garfield Christmas Special (1987) (TV)		Complete
+"Agatha Christie's Poirot" (1989) {Dead Man's Mirror (#5.7)}	Complete
+"Agatha Christie's Poirot" (1989) {Double Sin (#2.6)}	Complete
+"Agatha Christie's Poirot" (1989) {Four and Twenty Blackbirds (#1.4)}	Complete
+"Agatha Christie's Poirot" (1989) {How Does Your Garden Grow? (#3.2)}	Complete
+"Agatha Christie's Poirot" (1989) {Jewel Robbery at the Grand Metropolitan (#5.8)}	Complete
+"Agatha Christie's Poirot" (1989) {Murder in the Mews (#1.2)}	Complete
+"Agatha Christie's Poirot" (1989) {Peril at End House (#2.1)}	Complete
+"Agatha Christie's Poirot" (1989) {Problem at Sea (#1.7)}	Complete
+"Agatha Christie's Poirot" (1989) {The Adventure of Johnnie Waverly (#1.3)}	Complete
+"Agatha Christie's Poirot" (1989) {The Adventure of the Cheap Flat (#2.7)}	Complete
+"Agatha Christie's Poirot" (1989) {The Adventure of the Clapham Cook (#1.1)}	Complete
+"Agatha Christie's Poirot" (1989) {The Adventure of the Egyptian Tomb (#5.1)}	Complete
+"Agatha Christie's Poirot" (1989) {The Adventure of the Italian Nobleman (#5.5)}	Complete
+"Agatha Christie's Poirot" (1989) {The Adventure of the Western Star (#2.9)}	Complete
+"Agatha Christie's Poirot" (1989) {The Affair at the Victory Ball (#3.10)}	Complete
+"Agatha Christie's Poirot" (1989) {The Case of the Missing Will (#5.4)}	Complete
+"Agatha Christie's Poirot" (1989) {The Chocolate Box (#5.6)}	Complete
+"Agatha Christie's Poirot" (1989) {The Cornish Mystery (#2.4)}	Complete
+"Agatha Christie's Poirot" (1989) {The Disappearance of Mr. Davenheim (#2.5)}	Complete
+"Agatha Christie's Poirot" (1989) {The Double Clue (#3.7)}	Complete
+"Agatha Christie's Poirot" (1989) {The Dream (#1.10)}	Complete
+"Agatha Christie's Poirot" (1989) {The Incredible Theft (#1.8)}	Complete
+"Agatha Christie's Poirot" (1989) {The Kidnapped Prime Minister (#2.8)}	Complete
+"Agatha Christie's Poirot" (1989) {The King of Clubs (#1.9)}	Complete
+"Agatha Christie's Poirot" (1989) {The Lost Mine (#2.3)}	Complete
+"Agatha Christie's Poirot" (1989) {The Million Dollar Bond Robbery (#3.3)}	Complete
+"Agatha Christie's Poirot" (1989) {The Mystery of Hunter's Lodge (#3.11)}	Complete
+"Agatha Christie's Poirot" (1989) {The Mystery of the Spanish Chest (#3.8)}	Complete
+"Agatha Christie's Poirot" (1989) {The Plymouth Express (#3.4)}	Complete
+"Agatha Christie's Poirot" (1989) {The Theft of the Royal Ruby (#3.9)}	Complete
+"Agatha Christie's Poirot" (1989) {The Third Floor Flat (#1.5)}	Complete
+"Agatha Christie's Poirot" (1989) {The Tragedy at Marsdon Manor (#3.6)}	Complete
+"Agatha Christie's Poirot" (1989) {The Underdog (#5.2)}	Complete
+"Agatha Christie's Poirot" (1989) {The Yellow Iris (#5.3)}	Complete
+"Agatha Christie's Poirot" (1989) {Triangle at Rhodes (#1.6)}	Complete
+"Agatha Christie's Poirot" (1989) {Wasps' Nest (#3.5)}	Complete
+A Gathering of Eagles (1963)				Complete
+A Gathering of Old Men (1987) (TV)			Complete
+A Gem of a Jam (1943)					Complete
+Agentenfieber (1997) (TV)				Complete
+Agenterne (2003) (TV)					Complete
+Age of Consent (1969)					Complete
+Age of Indiscretion (1935)				Complete
+Age of Treason (1993) (TV)				Complete
+Aggie Appleby Maker of Men (1933)			Complete
+A Gift for Heidi (1958)					Complete
+A Girl, a Guy, and a Gob (1941)				Complete+Verified
+A Girl in Every Port (1952)				Complete
+A Girl Like U (2011)					Complete
+A Girl Must Live (1939)					Complete
+A Girl's Best Years (1936)				Complete
+A Girl to Kill For (1990)				Complete
+Agnes Browne (1999)					Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {72 Stunden Angst (#17.1)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Abschied (#6.17)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Alte Freunde (#15.7)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Alte Schule (#11.13)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Am Abgrund (#10.2)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Am Ende der Jugend (#13.2)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Außer Kontrolle (#10.4)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Auf der Flucht (#4.7)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Auf der Jagd (#9.12)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Auf eigene Faust (#13.1)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Auf Leben und Tod (#11.1)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Auge um Auge (#12.3)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Ausgeliefert (#11.12)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Ausgesetzt (#2.1)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Babyalarm (#17.7)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Begraben (#13.9)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Bis zum bitteren Ende (#6.8)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Black Out (#6.3)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Blinde Liebe (#4.2)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Bomben bei Kilometer 92 (#1.1)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Brennender Ehrgeiz (#3.11)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Brennpunkt Autobahn (#9.9)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Bruderliebe (#15.3)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Codename Tiger (#15.15)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Comeback (#9.1)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Countdown (#7.8)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Crash Kommerz (#5.5)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Cyberstorm (#15.11)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Das Ende der Welt (#15.1)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Das Kartell (#15.2)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Das Komplott (#14.4)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Das Versprechen (#10.16)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Das Zweite Leben (#16.9)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der Alte und der Junge (#1.6)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der Angriff (#16.7)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der Anschlag (#16.1)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der Aufprall (#7.6)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der Detektiv (#7.9)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der Fahrer (#10.18)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der Joker (#3.8)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der Kleine (#6.1)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der Kommissar (#9.2)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der letzte Coup (#10.17)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der letzte Tag (#16.4)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der neue Partner (#1.3)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der Panther (#15.5)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der perfekte Mord (#6.9)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der Prüfer (#16.3)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der Rennstall (#5.17)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der Richter (#3.14)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der Samurai (#1.8)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der Staatsanwalt (#11.6)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der Tod aus dem Motor (#5.3)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der Tod eines Jungen (#3.15)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der tote Zeuge (#3.7)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der verlorene Sohn (#15.6)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Der Verrat (#13.7)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Die Anhalterin (#3.6)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Die Braut (#14.2)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Die Clique (#6.11)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Die Leibwächter (#13.8)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Die letzte Chance (#3.2)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Die Partner (#11.4)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Die schwarze Madonna (#14.5)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Die schwarze Witwe (#5.12)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Die Todesliste (#7.15)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Die Verschwörung (#17.8)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Die Zeugin (#7.18)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Die zweite Chance (#10.14)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Doppelter Alptraum (#5.8)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Ehrensache (#5.16)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Eine böse Überraschung (#4.4)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Ein einsamer Sieg (#3.16)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Ein Leopard läuft Amok (#3.1)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Ein tiefer Fall (#6.14)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Endstation für alle (#1.9)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Entführt (#11.9)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {En Vogue (#17.5)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Exodus (#12.6)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Explosiv (#9.7)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Extrem (#8.10)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Falsche Freundschaft (#8.9)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Falsches Blaulicht (#1.7)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Falsche Signale (#7.2)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Falsches Spiel (#5.14)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Familienangelegenheiten (#17.6)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Familienbande (#7.4)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Faule Äpfel (#2.21)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Feindliche Übernahme (#9.6)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Feindliche Brüder (#5.11)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Feueralarm (#9.8)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Feuertaufe (#7.1)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Feuer und Flamme (#8.6)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Fieber (#10.3)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Fieberträume (#5.2)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Flashback (#10.6)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Formel Zukunft (#16.6)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Frankie (#10.15)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Für das Leben eines Freundes (#16.2)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Freunde in Not (#8.3)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Für immer und ewig (#8.1)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Gefährliches Spielzeug (#4.8)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Gegen die Zeit (#7.3)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Gegen jede Regel (#11.5)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Geliebter Feind (#15.9)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Genies unter sich (#14.3)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Gift (#2.18)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Gnadenlos (#8.8)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Hals- und Beinbruch (#10.19)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Hase und Igel (#4.5)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Heinrich und Paul (#7.12)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Heldentage (#9.3)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Hetzjagd (#6.4)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Höher, schneller, weiter! (#16.10)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {High Speed (#5.10)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Highway Maniac (#4.6)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Himmelfahrtskommando (#14.6)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Höllenfahrt auf der A4 (#4.1)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Hochspannung (#9.4)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Im Angesicht des Todes (#10.10)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Im Aus (#14.1)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Im Fadenkreuz (#3.4)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Im Kreuzfeuer (#6.6)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Im Nebel verschwunden (#3.5)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Im Visier des Todes (#7.13)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {In bester Absicht (#11.2)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {In der Schusslinie (#16.12)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Infarkt (#11.10)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Inkasso (#12.2)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Jäger und Gejagte (#9.5)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Kaltblütig (#2.2)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Kleine Schwester (#9.13)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Koma (#15.10)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Kopfgeld auf Kim Krüger (#15.12)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Kurze Rast (#2.16)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Kurzes Glück (#5.15)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Lauras Entscheidung (#10.11)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Leben und leben lassen (#12.4)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Leichenwagen (#2.17)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Leichte Beute (#7.10)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Liebe bis in den Tod (#5.6)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Mitten ins Herz (#17.3)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Mord und Totschlag (#1.4)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Muttertag (#8.7)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Nemesis (#11.3)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Notwehr (#9.10)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Ohne Ausweg (#7.11)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Operation: Gemini (#15.4)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Rabenmutter (#13.3)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Rache ist süss (#2.11)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Rattennest (#11.11)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Raubritter (#2.12)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Rhein in Flammen (#15.8)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Rock 'n Roll (#7.7)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Rote Rosen, schwarzer Tod (#1.2)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Sabotage (#7.14)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Schatten der Vergangenheit (#6.16)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Schattenkrieger (#3.12)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Schattenmann (#13.4)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Schlag zu (#2.22)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Schmölders Traum (#5.7)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Schnäppchenjäger (#2.20)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Schuld und Sühne (#11.8)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Schwarze Schafe (#6.2)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Showdown (#8.4)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Sonnenkinder (#2.13)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Späte Rache (#6.12)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Spurlos (#15.14)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Stadt in Angst (#12.1)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Stunde der Wahrheit (#11.14)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Tag der Finsternis (#15.13)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Taxi 541 (#3.13)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Tödliche Bewährung (#10.12)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Tödliche Fracht (#7.5)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Tödliche Kunst (#6.5)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Tödliche Ladung (#3.10)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Tödlicher Ruhm (#2.14)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Tödlicher Sand (#3.3)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Tina und Aysim (#5.9)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Tod bei Tempo 100 (#1.5)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Tod eines Reporters (#6.13)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Todesfahrt der Linie 834 (#5.1)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Todfeinde (#11.7)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Totalverlust (#12.5)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Toter Bruder (#16.13)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Treibstoff (#3.9)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Truckstop (#5.13)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Tulpen aus Amsterdam (#4.3)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Turbo & Tacho (#16.5)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Turbo & Tacho Reloaded (#17.4)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Um jeden Preis (#8.2)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Und... Action...! (#16.11)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Undercover (#7.16)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Unter Druck (#13.5)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Unter Feinden (#12.7)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Unter Feuer (#10.7)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Vater und Sohn (#6.10)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Verraten und verkauft (#6.15)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Vertrauenssache (#10.8)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Vertrauter Feind (#7.17)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Viva Colonia (#17.9)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Volles Risiko (#10.9)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Volley Stop (#2.15)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Wehrlos (#6.7)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Wer einmal lügt (#13.6)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Wer Wind sät... (#8.5)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Wettlauf gegen die Zeit (#17.2)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Zivilcourage (#9.11)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Zwischen allen Stühlen (#5.4)}	Complete
+"Alarm für Cobra 11 - Die Autobahnpolizei" (1996) {Zwischen den Fronten (#2.19)}	Complete
+"ALF" (1986) {A.L.F. (#1.1)}				Complete
+"ALF" (1986) {ALF's Special Christmas: Part 1 (#2.12)}	Complete
+"ALF" (1986) {ALF's Special Christmas: Part 2 (#2.13)}	Complete
+"ALF" (1986) {Baby, Come Back (#4.1)}			Complete
+"ALF" (1986) {Baby, You Can Drive My Car (#1.10)}	Complete
+"ALF" (1986) {Break Up to Make Up (#4.10)}		Complete
+"ALF" (1986) {Can I Get a Witness? (#2.15)}		Complete
+"ALF" (1986) {Don't It Make My Brown Eyes Blue? (#1.8)}	Complete
+"ALF" (1986) {Fever (#4.12)}				Complete
+"ALF" (1986) {For Your Eyes Only (#1.6)}		Complete
+"ALF" (1986) {Hail to the Chief (#2.11)}		Complete
+"ALF" (1986) {Happy Together (#4.11)}			Complete
+"ALF" (1986) {He Ain't Heavy, He's Willie's Brother (#4.7)}	Complete
+"ALF" (1986) {Help Me, Rhonda (#1.7)}			Complete
+"ALF" (1986) {Hit Me with Your Best Shot (#2.21)}	Complete
+"ALF" (1986) {Hooked on a Feeling (#4.6)}		Complete
+"ALF" (1986) {I'm Your Puppet (#2.23)}			Complete
+"ALF" (1986) {Isn't It Romantic? (#2.10)}		Complete
+"ALF" (1986) {It's My Party (#4.13)}			Complete
+"ALF" (1986) {Jump (#1.9)}				Complete
+"ALF" (1986) {Keepin' the Faith (#1.5)}			Complete
+"ALF" (1986) {Lies (#4.2)}				Complete
+"ALF" (1986) {Live and Let Die (#4.9)}			Complete
+"ALF" (1986) {Looking for Lucky (#1.3)}			Complete
+"ALF" (1986) {Love on the Rocks (#4.15)}		Complete
+"ALF" (1986) {Make 'em Laugh (#4.14)}			Complete
+"ALF" (1986) {Mind Games (#4.5)}			Complete
+"ALF" (1986) {Movin' Out (#2.22)}			Complete
+"ALF" (1986) {Night Train (#2.9)}			Complete
+"ALF" (1986) {Oh, Pretty Woman (#2.7)}			Complete
+"ALF" (1986) {On the Road Again (#1.11)}		Complete
+"ALF" (1986) {Original Unaired Pilot (#1.0)}		Complete
+"ALF" (1986) {Pennsylvania 6-5000 (#1.4)}		Complete
+"ALF" (1986) {Prime Time (#2.5)}			Complete
+"ALF" (1986) {Some Enchanted Evening (#2.6)}		Complete
+"ALF" (1986) {Someone to Watch Over Me: Part 1 (#2.17)}	Complete
+"ALF" (1986) {Someone to Watch Over Me: Part 2 (#2.18)}	Complete
+"ALF" (1986) {Something's Wrong with Me (#2.8)}		Complete
+"ALF" (1986) {Somewhere Over the Rerun (#2.2)}		Complete
+"ALF" (1986) {Stairway to Heaven (#3.2)}		Complete
+"ALF" (1986) {Stop in the Name of Love (#3.1)}		Complete
+"ALF" (1986) {Strangers in the Night (#1.2)}		Complete
+"ALF" (1986) {Take a Look at Me Now (#2.3)}		Complete
+"ALF" (1986) {Tequila (#2.24)}				Complete
+"ALF" (1986) {The Boy Next Door (#2.14)}		Complete
+"ALF" (1986) {The First Time Ever I Saw Your Face (#4.8)}	Complete
+"ALF" (1986) {Varsity Drag (#2.26)}			Complete
+"ALF" (1986) {Wanted: Dead or Alive (#4.3)}		Complete
+"ALF" (1986) {We Are Family (#2.25)}			Complete
+"ALF" (1986) {Wedding Bell Blues (#2.4)}		Complete
+"ALF" (1986) {We Gotta Get Out of This Place (#2.19)}	Complete
+"ALF" (1986) {We're in the Money (#4.4)}		Complete
+"ALF" (1986) {We're So Sorry, Uncle Albert (#2.16)}	Complete
+"ALF" (1986) {Working My Way Back to You (#2.1)}	Complete
+"ALF" (1986) {You Ain't Nothin' But a Hound Dog (#2.20)}	Complete
+Alfa (1975)						Complete
+Alferd Packer: The Musical (1993)			Complete
+Alfie (1966)						Complete
+Alfie (2004)						Complete
+"Alfred Hitchcock Presents" (1955) {A Bottle of Wine (#2.19)}	Complete
+"Alfred Hitchcock Presents" (1955) {A Bullet for Baldwin (#1.14)}	Complete
+"Alfred Hitchcock Presents" (1955) {Alibi Me (#2.7)}	Complete
+"Alfred Hitchcock Presents" (1955) {A Little Sleep (#2.38)}	Complete
+"Alfred Hitchcock Presents" (1955) {A Man Greatly Beloved (#2.33)}	Complete
+"Alfred Hitchcock Presents" (1955) {And So Died Riabouchinska (#1.20)}	Complete
+"Alfred Hitchcock Presents" (1955) {And the Desert Shall Blossom (#4.11)}	Complete
+"Alfred Hitchcock Presents" (1955) {A Personal Matter (#4.15)}	Complete
+"Alfred Hitchcock Presents" (1955) {Back for Christmas (#1.23)}	Complete
+"Alfred Hitchcock Presents" (1955) {Breakdown (#1.7)}	Complete
+"Alfred Hitchcock Presents" (1955) {Bull in a China Shop (#3.26)}	Complete
+"Alfred Hitchcock Presents" (1955) {Conversation Over a Corpse (#2.8)}	Complete
+"Alfred Hitchcock Presents" (1955) {Cop for a Day (#7.4)}	Complete
+"Alfred Hitchcock Presents" (1955) {Crack of Doom (#2.9)}	Complete
+"Alfred Hitchcock Presents" (1955) {Crackpot (#2.15)}	Complete
+"Alfred Hitchcock Presents" (1955) {Death Sentence (#3.30)}	Complete
+"Alfred Hitchcock Presents" (1955) {Decoy (#1.37)}	Complete
+"Alfred Hitchcock Presents" (1955) {De Mortuis (#2.3)}	Complete
+"Alfred Hitchcock Presents" (1955) {Design for Loving (#4.6)}	Complete
+"Alfred Hitchcock Presents" (1955) {Dip in the Pool (#3.35)}	Complete
+"Alfred Hitchcock Presents" (1955) {Disappearing Trick (#3.27)}	Complete
+"Alfred Hitchcock Presents" (1955) {Don't Come Back Alive (#1.4)}	Complete
+"Alfred Hitchcock Presents" (1955) {Don't Interrupt (#4.2)}	Complete
+"Alfred Hitchcock Presents" (1955) {Enough Rope for Two (#3.7)}	Complete
+"Alfred Hitchcock Presents" (1955) {Fatal Figures (#3.29)}	Complete
+"Alfred Hitchcock Presents" (1955) {Father and Son (#2.36)}	Complete
+"Alfred Hitchcock Presents" (1955) {Flight to the East (#3.25)}	Complete
+"Alfred Hitchcock Presents" (1955) {Fog Closing In (#2.2)}	Complete
+"Alfred Hitchcock Presents" (1955) {Guest for Breakfast (#3.21)}	Complete
+"Alfred Hitchcock Presents" (1955) {Guilty Witness (#1.11)}	Complete
+"Alfred Hitchcock Presents" (1955) {Heart of Gold (#3.4)}	Complete
+"Alfred Hitchcock Presents" (1955) {Help Wanted (#1.27)}	Complete
+"Alfred Hitchcock Presents" (1955) {I Killed the Count: Part 1 (#2.25)}	Complete
+"Alfred Hitchcock Presents" (1955) {I Killed the Count: Part 2 (#2.26)}	Complete
+"Alfred Hitchcock Presents" (1955) {I Killed the Count: Part 3 (#2.27)}	Complete
+"Alfred Hitchcock Presents" (1955) {I'll Take Care of You (#4.23)}	Complete
+"Alfred Hitchcock Presents" (1955) {Into Thin Air (#1.5)}	Complete
+"Alfred Hitchcock Presents" (1955) {John Brown's Body (#2.14)}	Complete
+"Alfred Hitchcock Presents" (1955) {Jonathan (#2.10)}	Complete
+"Alfred Hitchcock Presents" (1955) {Kill with Kindness (#2.4)}	Complete
+"Alfred Hitchcock Presents" (1955) {Lamb to the Slaughter (#3.28)}	Complete
+"Alfred Hitchcock Presents" (1955) {Last Request (#3.8)}	Complete
+"Alfred Hitchcock Presents" (1955) {Listen, Listen.....! (#3.32)}	Complete
+"Alfred Hitchcock Presents" (1955) {Little White Frock (#3.39)}	Complete
+"Alfred Hitchcock Presents" (1955) {Mail Order Prophet (#3.2)}	Complete
+"Alfred Hitchcock Presents" (1955) {Malice Domestic (#2.20)}	Complete
+"Alfred Hitchcock Presents" (1955) {Martha Mason, Movie Star (#2.34)}	Complete
+"Alfred Hitchcock Presents" (1955) {Mink (#1.36)}	Complete
+"Alfred Hitchcock Presents" (1955) {Miss Bracegirdle Does Her Duty (#3.18)}	Complete
+"Alfred Hitchcock Presents" (1955) {Miss Paisley's Cat (#3.12)}	Complete
+"Alfred Hitchcock Presents" (1955) {Momentum (#1.39)}	Complete
+"Alfred Hitchcock Presents" (1955) {Mr. Blanchard's Secret (#2.13)}	Complete
+"Alfred Hitchcock Presents" (1955) {Museum Piece (#6.25)}	Complete
+"Alfred Hitchcock Presents" (1955) {My Brother, Richard (#2.17)}	Complete
+"Alfred Hitchcock Presents" (1955) {Never Again (#1.30)}	Complete
+"Alfred Hitchcock Presents" (1955) {Nightmare in 4-D (#2.16)}	Complete
+"Alfred Hitchcock Presents" (1955) {Night of the Execution (#3.13)}	Complete
+"Alfred Hitchcock Presents" (1955) {None Are So Blind (#2.5)}	Complete
+"Alfred Hitchcock Presents" (1955) {Number Twenty-Two (#2.21)}	Complete
+"Alfred Hitchcock Presents" (1955) {One for the Road (#2.23)}	Complete
+"Alfred Hitchcock Presents" (1955) {One More Mile to Go (#2.28)}	Complete
+"Alfred Hitchcock Presents" (1955) {On the Nose (#3.20)}	Complete
+"Alfred Hitchcock Presents" (1955) {Our Cook's a Treasure (#1.8)}	Complete
+"Alfred Hitchcock Presents" (1955) {Place of Shadows (#1.22)}	Complete
+"Alfred Hitchcock Presents" (1955) {Poison (#4.1)}	Complete
+"Alfred Hitchcock Presents" (1955) {Portrait of Jocelyn (#1.28)}	Complete
+"Alfred Hitchcock Presents" (1955) {Post Mortem (#3.33)}	Complete
+"Alfred Hitchcock Presents" (1955) {Premonition (#1.2)}	Complete
+"Alfred Hitchcock Presents" (1955) {Revenge (#1.1)}	Complete
+"Alfred Hitchcock Presents" (1955) {Reward to Finder (#3.6)}	Complete
+"Alfred Hitchcock Presents" (1955) {Safe Conduct (#1.21)}	Complete
+"Alfred Hitchcock Presents" (1955) {Safety for the Witness (#4.8)}	Complete
+"Alfred Hitchcock Presents" (1955) {Salvage (#1.6)}	Complete
+"Alfred Hitchcock Presents" (1955) {Santa Claus and the Tenth Avenue Kid (#1.12)}	Complete
+"Alfred Hitchcock Presents" (1955) {Shopping for Death (#1.18)}	Complete
+"Alfred Hitchcock Presents" (1955) {Silent Witness (#3.5)}	Complete
+"Alfred Hitchcock Presents" (1955) {Six People, No Music (#4.13)}	Complete
+"Alfred Hitchcock Presents" (1955) {Specialty of the House (#5.12)}	Complete
+"Alfred Hitchcock Presents" (1955) {Sylvia (#3.16)}	Complete
+"Alfred Hitchcock Presents" (1955) {Ten O'Clock Tiger (#7.26)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Baby Sitter (#1.32)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Belfry (#1.33)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Better Bargain (#2.11)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Big Switch (#1.15)}	Complete+Verified
+"Alfred Hitchcock Presents" (1955) {The Canary Sedan (#3.37)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Case of Mr. Pelham (#1.10)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Changing Heart (#6.14)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Cheney Vase (#1.13)}	Complete+Verified
+"Alfred Hitchcock Presents" (1955) {The Cream of the Jest (#2.24)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Creeper (#1.38)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Crocodile Case (#3.34)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Dangerous People (#2.39)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Deadly (#3.11)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Derelicts (#1.19)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Diplomatic Corpse (#3.10)}	Complete
+"Alfred Hitchcock Presents" (1955) {The End of Indian Summer (#2.22)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Equalizer (#3.19)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Festive Season (#3.31)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Foghorn (#3.24)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Gentleman from America (#1.31)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Glass Eye (#3.1)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Hands of Mr. Ottermole (#2.32)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Hatbox (#7.1)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Hidden Thing (#1.34)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Impromptu Murder (#3.38)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Indestructible Mr. Weems (#2.37)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Jokester (#4.3)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Legacy (#1.35)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Long Shot (#1.9)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Manacled (#2.18)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Morning After (#4.14)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Morning of the Bride (#4.19)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Motive (#3.17)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Night the World Ended (#2.31)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Older Sister (#1.17)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Orderly World of Mr. Appleby (#1.29)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Percentage (#3.14)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Perfect Crime (#3.3)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Perfect Murder (#1.24)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Return of the Hero (#3.22)}	Complete
+"Alfred Hitchcock Presents" (1955) {There Was an Old Woman (#1.25)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Right Kind of House (#3.23)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Rose Garden (#2.12)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Safe Place (#3.36)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Sorcerer's Apprentice (#7.39)}	Complete+Verified
+"Alfred Hitchcock Presents" (1955) {The Three Dreams of Mr. Findlater (#2.30)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Waxwork (#4.27)}	Complete
+"Alfred Hitchcock Presents" (1955) {The West Warlock Time Capsule (#2.35)}	Complete
+"Alfred Hitchcock Presents" (1955) {The Young One (#3.9)}	Complete
+"Alfred Hitchcock Presents" (1955) {Toby (#2.6)}	Complete
+"Alfred Hitchcock Presents" (1955) {Together (#3.15)}	Complete
+"Alfred Hitchcock Presents" (1955) {Triggers in Leash (#1.3)}	Complete
+"Alfred Hitchcock Presents" (1955) {Vicious Circle (#2.29)}	Complete
+"Alfred Hitchcock Presents" (1955) {Wet Saturday (#2.1)}	Complete
+"Alfred Hitchcock Presents" (1955) {Whodunit (#1.26)}	Complete
+"Alfred Hitchcock Presents" (1955) {You Got to Have Luck (#1.16)}	Complete
+"'Allo 'Allo!" (1982) {A Bun in the Oven (#8.0)}	Complete
+"'Allo 'Allo!" (1982) {A Fishy Sendoff (#9.5)}		Complete
+"'Allo 'Allo!" (1982) {A Fistful of Francs (#8.6)}	Complete
+"'Allo 'Allo!" (1982) {All Aboard (#5.21)}		Complete
+"'Allo 'Allo!" (1982) {A Marriage of Inconvenience (#5.6)}	Complete
+"'Allo 'Allo!" (1982) {An Almighty Bang (#7.2)}		Complete
+"'Allo 'Allo!" (1982) {A Quiet Honeymoon (#7.1)}	Complete
+"'Allo 'Allo!" (1982) {Arousing Suspicions (#8.1)}	Complete
+"'Allo 'Allo!" (1982) {Awful Wedded Wife (#8.4)}	Complete
+"'Allo 'Allo!" (1982) {A Winkle in Time (#9.6)}		Complete
+"'Allo 'Allo!" (1982) {A Woman Never Lies (#8.2)}	Complete
+"'Allo 'Allo!" (1982) {Camp Dance (#4.2)}		Complete
+"'Allo 'Allo!" (1982) {Christmas Puddings (#5.19)}	Complete
+"'Allo 'Allo!" (1982) {Communists in the Cupboard (#5.14)}	Complete
+"'Allo 'Allo!" (1982) {Criminal Developments (#5.3)}	Complete
+"'Allo 'Allo!" (1982) {Desperate Doings in the Dungeon (#5.1)}	Complete
+"'Allo 'Allo!" (1982) {Enigma (#5.23)}			Complete
+"'Allo 'Allo!" (1982) {Enigma's End (#5.26)}		Complete
+"'Allo 'Allo!" (1982) {Enter Denise (#5.5)}		Complete
+"'Allo 'Allo!" (1982) {Fanny's Wedding (#6.7)}		Complete
+"'Allo 'Allo!" (1982) {Feathers (#5.17)}		Complete
+"'Allo 'Allo!" (1982) {Fighting with Windmills (#9.1)}	Complete
+"'Allo 'Allo!" (1982) {Firing Squashed (#8.5)}		Complete
+"'Allo 'Allo!" (1982) {Fleeing Monks (#7.3)}		Complete
+"'Allo 'Allo!" (1982) {Flight of Fancy (#3.4)}		Complete
+"'Allo 'Allo!" (1982) {Forged Francs & Fishsellers (#5.15)}	Complete
+"'Allo 'Allo!" (1982) {Good Staff Are Hard to Find (#4.3)}	Complete
+"'Allo 'Allo!" (1982) {Gruber Does Some Mincing (#3.2)}	Complete
+"'Allo 'Allo!" (1982) {Hans Goes Over the Top (#4.1)}	Complete
+"'Allo 'Allo!" (1982) {Herr Flick's Revenge (#2.6)}	Complete
+"'Allo 'Allo!" (1982) {Hitler's Last Heil (#8.3)}	Complete
+"'Allo 'Allo!" (1982) {Intelligence Officers (#6.5)}	Complete
+"'Allo 'Allo!" (1982) {It's Raining Italians (#6.2)}	Complete
+"'Allo 'Allo!" (1982) {Leclerc Against the Wall (#5.18)}	Complete
+"'Allo 'Allo!" (1982) {Leg It to Spain! (#7.7)}		Complete
+"'Allo 'Allo!" (1982) {Michelle's Secret Love (#5.10)}	Complete
+"'Allo 'Allo!" (1982) {Mines Away! (#5.20)}		Complete
+"'Allo 'Allo!" (1982) {Missing and Presumed Dead (#9.2)}	Complete
+"'Allo 'Allo!" (1982) {Parade of Prams (#5.12)}		Complete
+"'Allo 'Allo!" (1982) {Pigeon Post (#1.2)}		Complete
+"'Allo 'Allo!" (1982) {Post-Matrimonial Depression (#5.7)}	Complete
+"'Allo 'Allo!" (1982) {Pretty Maids All in a Row (#3.5)}	Complete
+"'Allo 'Allo!" (1982) {Prior Engagements (#7.8)}	Complete
+"'Allo 'Allo!" (1982) {Reds Nick Colonel (#1.6)}	Complete
+"'Allo 'Allo!" (1982) {René Artois Is Still Dead (#9.3)}	Complete
+"'Allo 'Allo!" (1982) {Rene's Ghost (#6.1)}		Complete
+"'Allo 'Allo!" (1982) {Renewing the Vows (#5.24)}	Complete
+"'Allo 'Allo!" (1982) {René of the Gipsies (#7.10)}	Complete
+"'Allo 'Allo!" (1982) {Rescuing the Airmen (#6.4)}	Complete
+"'Allo 'Allo!" (1982) {Return of the Paintings (#5.4)}	Complete
+"'Allo 'Allo!" (1982) {Rising to the Occasion (#6.8)}	Complete
+"'Allo 'Allo!" (1982) {Savile Row to the Rescue (#1.3)}	Complete
+"'Allo 'Allo!" (1982) {Six Big Boobies (#2.1)}		Complete
+"'Allo 'Allo!" (1982) {Soup and Sausage (#7.9)}		Complete
+"'Allo 'Allo!" (1982) {Swan Song (#8.7)}		Complete
+"'Allo 'Allo!" (1982) {Swiftly and with Style (#2.4)}	Complete
+"'Allo 'Allo!" (1982) {The Bank Job (#5.13)}		Complete
+"'Allo 'Allo!" (1982) {The Big Flush (#5.25)}		Complete
+"'Allo 'Allo!" (1982) {The British Are Coming (#1.0)}	Complete
+"'Allo 'Allo!" (1982) {The British Invasion (#5.11)}	Complete
+"'Allo 'Allo!" (1982) {The Camera in the Potato (#5.2)}	Complete
+"'Allo 'Allo!" (1982) {The Dance of the Hitler Youth (#1.7)}	Complete
+"'Allo 'Allo!" (1982) {The Duel (#2.5)}			Complete
+"'Allo 'Allo!" (1982) {The Execution (#1.4)}		Complete
+"'Allo 'Allo!" (1982) {The Exploding Bedpan (#5.16)}	Complete
+"'Allo 'Allo!" (1982) {The Fallen Madonna (#1.1)}	Complete
+"'Allo 'Allo!" (1982) {The Fence (#6.6)}		Complete
+"'Allo 'Allo!" (1982) {The Fishmonger Float (#9.4)}	Complete
+"'Allo 'Allo!" (1982) {The Flying Nun (#4.4)}		Complete
+"'Allo 'Allo!" (1982) {The Funeral (#1.5)}		Complete
+"'Allo 'Allo!" (1982) {The Gateau from the Chateau (#2.7)}	Complete
+"'Allo 'Allo!" (1982) {The Generals' Conference (#5.9)}	Complete
+"'Allo 'Allo!" (1982) {The Geneva Express (#5.22)}	Complete
+"'Allo 'Allo!" (1982) {The Gestapo Ruins a Picnic (#7.5)}	Complete
+"'Allo 'Allo!" (1982) {The Goose and the Submarine (#6.3)}	Complete
+"'Allo 'Allo!" (1982) {The Great Un-Escape (#3.6)}	Complete
+"'Allo 'Allo!" (1982) {The Jet Propelled Mother-In-Law (#4.6)}	Complete
+"'Allo 'Allo!" (1982) {The Long-Distance Duck (#5.8)}	Complete
+"'Allo 'Allo!" (1982) {The Nicked Knockwurst (#3.1)}	Complete
+"'Allo 'Allo!" (1982) {The Policeman Cometh (#2.3)}	Complete
+"'Allo 'Allo!" (1982) {The Sausage in the Trousers (#4.5)}	Complete
+"'Allo 'Allo!" (1982) {The Sausage in the Wardrobe (#3.3)}	Complete
+"'Allo 'Allo!" (1982) {The Spirit of Nouvion (#7.6)}	Complete
+"'Allo 'Allo!" (1982) {The Wooing of Widow Artois (#2.2)}	Complete
+"'Allo 'Allo!" (1982) {Up the Crick Without a Piddle (#7.4)}	Complete
+...Altrimenti ci arrabbiamo! (1974)			Complete
+'Breaker' Morant (1980)					Complete
+'Carry on Constable' (1960)				Complete+Verified
