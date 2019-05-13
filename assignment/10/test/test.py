@@ -18,5 +18,5 @@ class MyWindow(QtWidgets.QMainWindow):
 
 app = QtWidgets.QApplication([])
 win = MyWindow()
-win.show
+win.show()
 app.exec()
